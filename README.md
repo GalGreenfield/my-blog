@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Code Climate](https://codeclimate.com/github/Vagr9K/gatsby-material-starter/badges/gpa.svg)](https://codeclimate.com/github/Vagr9K/gatsby-material-starter)
 [![Issue Count](https://codeclimate.com/github/Vagr9K/gatsby-material-starter/badges/issue_count.svg)](https://codeclimate.com/github/Vagr9K/gatsby-material-starter)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/990fb54ea8094f2aa0ed77f14e859820)](https://www.codacy.com/app/Vagr9K/gatsby-material-starter?utm_source=github.com&utm_medium=referral&utm_content=Vagr9K/gatsby-material-starter&utm_campaign=Badge_Grade)
@@ -206,3 +207,7 @@ $md-primary-color: $md-grey-400;
 $md-secondary-color: $md-red-800;
 $md-tertiary-color: $md-grey-300;
 ```
+=======
+# Gal Grünfeld's Blog
+A blog for my curious thoughts, ideas and things I find interesting - in philosophy, language, society, psychology, engineering, mathematics, programming and more.
+>>>>>>> 37165b984e7be7f7db4835206d39b298183b4e4a
